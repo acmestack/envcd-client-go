@@ -1,4 +1,4 @@
-# envcd-client-go-client-go
+# envcd-client-go
 
 [![license card](https://img.shields.io/badge/License-Apache%202.0-brightgreen.svg?label=license)](https://github.com/acmestack/envcd-client-go/blob/main/LICENSE)
 [![go version](https://img.shields.io/github/go-mod/go-version/acmestack/envcd-client-go)](#)
